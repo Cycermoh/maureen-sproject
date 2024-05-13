@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59215134748",
+    "project_id": "mauren-s-project",
+    "storage_bucket": "mauren-s-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59215134748:android:2b7f0987a7f5b443f15fd9",
+        "android_client_info": {
+          "package_name": "com.maureen.maurensproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKoSg5__jEth3rWOmqGjbcvzxdtEHXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
